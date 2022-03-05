@@ -14,6 +14,8 @@ cursors).
 
 ## Installation
 
+Datapack .zip files are in the `packages` folder in this repository.
+
 Unpack the following file in your "datapacks" folder to install the
 "CJT_Tunnels" datapack:
 
